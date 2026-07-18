@@ -24,9 +24,9 @@ assets:
   - {seq: 0, filename: KR3eu055_000.yaml, hash: 'sha256:4082ed3887e2497914d91bbf4c6b996e523c327305afd28fcb02d8dc35f680bb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eu055_000.markers.yaml, hash: 'sha256:958760f7702a97549da91a1191354279af46792d27770f19409d41aedfda981c'}
-  - {seq: 1, role: markers, filename: assets/KR3eu055_001.markers.yaml, hash: 'sha256:328d45a1d8766060864e0a1fa3f2f59691e90174250af9c0aa97e4258fb87a9f'}
+  - {seq: 1, role: markers, filename: assets/KR3eu055_001.markers.yaml, hash: 'sha256:ddf7991c98b0df84e2cab217fc2c9420370b2e97490c0c0ee993dc672d24cedf'}
   - {seq: 2, role: markers, filename: assets/KR3eu055_002.markers.yaml, hash: 'sha256:582711f4e2d3c481bffaebc9d297fd6a85f8151cd372ba4f6596bed941d770d2'}
-  - {seq: 3, role: markers, filename: assets/KR3eu055_003.markers.yaml, hash: 'sha256:982ec61877b5a6f23ed6a25ecaefc213137c65e0be879a38b3532ab43de7e168'}
+  - {seq: 3, role: markers, filename: assets/KR3eu055_003.markers.yaml, hash: 'sha256:ba4613382ac160edf0cc01d91c6af86b959732cc4485eb4c2bc10dbf5fd38e35'}
   - {seq: 4, role: markers, filename: assets/KR3eu055_004.markers.yaml, hash: 'sha256:4948f2ebb5d195be874a8bf15fbd180b162d0946778eb0e27d7a8f332f337428'}
 table_of_contents:
 - ref:
@@ -189,7 +189,7 @@ table_of_contents:
   label: 附錄子玄子治驗四十八則
   type: section
   level: 1
-hash: sha256:8fda614974c84ea5e42cb093d3ed1b4e8055429815c0e0367db1b85e03c2a589
+hash: sha256:17dc94056cc22c0934fe78ddd3599ba023c162627268b3307b1111eb43ec7b2a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

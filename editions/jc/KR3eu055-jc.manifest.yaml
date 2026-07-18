@@ -24,11 +24,10 @@ assets:
   - {seq: 0, filename: KR3eu055_000-jc.yaml, hash: 'sha256:00dac4ed3e4532062c6d6f3a7f34789a17b30570194e5236e7fccadf5f019f59'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eu055_000-jc.markers.yaml, hash: 'sha256:1a35028a9b23dd0f8717eb49a58969affbe80eda46d469a713a649bb176efdc0'}
-  - {seq: 1, role: markers, filename: assets/KR3eu055_001-jc.markers.yaml, hash: 'sha256:741594d4a1de5b593cf2606695a0f3e9b1bfcab53e574e84738b8721a325a776'}
+  - {seq: 1, role: markers, filename: assets/KR3eu055_001-jc.markers.yaml, hash: 'sha256:27debc017cb6d8a52181e04c63797a3c132f3e68380ccdb09c82e33969d8b49b'}
   - {seq: 2, role: markers, filename: assets/KR3eu055_002-jc.markers.yaml, hash: 'sha256:d85a3b89b3d94421da556e7bd053388df93a2846677e376fc174bc578eae9f7d'}
-  - {seq: 3, role: markers, filename: assets/KR3eu055_003-jc.markers.yaml, hash: 'sha256:fbd50e21e014822ea0128f19e93565bdc817ea8311711c580f787b20d611dcbf'}
+  - {seq: 3, role: markers, filename: assets/KR3eu055_003-jc.markers.yaml, hash: 'sha256:edb70c17cec4cc8b3e38e79595846c3641e94e0a2d93d88585f93f1d475cfb12'}
   - {seq: 4, role: markers, filename: assets/KR3eu055_004-jc.markers.yaml, hash: 'sha256:10f6424beb567312d79cb5dd052e988cc7d1ec4114a9989155cf2b20a796b81d'}
-  - {seq: 0, role: markers, filename: assets/KR3eu055_000-jc.markers.yaml, hash: 'sha256:1a35028a9b23dd0f8717eb49a58969affbe80eda46d469a713a649bb176efdc0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -190,4 +189,4 @@ table_of_contents:
   label: 附錄子玄子治驗四十八則
   type: section
   level: 1
-hash: sha256:ab9c0e6cadf72adde1a2c72ba802896db218e982f069408151940b9f2d98e3c9
+hash: sha256:0e085978f9ecca8991288b8b7268fda7bc41435416f244840edd71d5a1af374a
